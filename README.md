@@ -1,1 +1,1 @@
-https://igor-veselkov.github.io/Project-JS/
+https://igor-veselkov.github.io/Projects-JS/
