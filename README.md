@@ -1,1 +1,1 @@
-https://igor-veselkov.github.io/Projects-JS/
+https://igor-veselkov.github.io/cards-sources/
